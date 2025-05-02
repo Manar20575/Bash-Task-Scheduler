@@ -107,7 +107,7 @@ main_menu(){
 		echo "1- List Scheduled tasks"
 		echo "2- Add a task"
 		echo "3- Remove a task"
-		echo "4- Install tasks from crontab"
+		echo "4- Install tasks to crontab"
 		echo "5- Remove tasks from crontab"
 		echo "6- Exit"
 		read -p "Enter your choice (1..6): " choice
