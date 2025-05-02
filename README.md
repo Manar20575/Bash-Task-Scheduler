@@ -43,9 +43,10 @@ git clone https://github.com/yourusername/task-scheduler.git
 
 # Navigate to project directory
 cd task-scheduler
-# Set Up Permissions
 
-bash
+
+# Set Up Permissions
+```bash
 # Make the script executable
 chmod +x task_scheduler.sh
 
