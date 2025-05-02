@@ -36,7 +36,7 @@ A simple bash script allows you to schedule and manage recurring tasks with diff
 - Bash shell
 - cron daemon running
 
-### Method 1: Clone Repository
+### Clone Repository
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/task-scheduler.git
