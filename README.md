@@ -42,7 +42,7 @@ A simple bash script allows you to schedule and manage recurring tasks with diff
 git clone https://github.com/yourusername/task-scheduler.git
 
 # Navigate to project directory
-cd task-scheduler
+cd name_of_dir()
 
 
 # Set Up Permissions
