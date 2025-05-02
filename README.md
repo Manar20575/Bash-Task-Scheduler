@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/task-scheduler.git
 
 # Navigate to project directory
 cd name_of_dir()
-
+```
 
 # Set Up Permissions
 ```bash
@@ -52,3 +52,4 @@ chmod +x task_scheduler.sh
 
 # Start the interactive menu
 ./task_scheduler.sh
+```
