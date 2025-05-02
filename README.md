@@ -18,13 +18,13 @@ A simple bash script allows you to schedule and manage recurring tasks with diff
 
 ## 📂 File Structure
 
-- **`task_scheduler.sh`**  
+- **`scheduler.sh`**  
   The main executable script file
 
-- **`~/.task_scheduler_tasks`**  
+- **`~/.scheduler_tasks`**  
   Stores all your scheduled tasks in pipe-delimited format (automatically created)
 
-- **`~/.task_scheduler_log`**  
+- **`~/.scheduler_log`**  
   Records all operations with timestamps (automatically created)
 
 - **`~/.crontab_backup`**  
