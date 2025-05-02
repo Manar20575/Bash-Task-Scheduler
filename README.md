@@ -39,17 +39,17 @@ A simple bash script allows you to schedule and manage recurring tasks with diff
 ### Clone Repository
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-scheduler.git
+git clone https://github.com/yourusername/Bash-Task-Scheduler.git
 
 # Navigate to project directory
-cd name_of_dir()
+cd name_of_urdir
 ```
 
 # Set Up Permissions
 ```bash
 # Make the script executable
-chmod +x task_scheduler.sh
+chmod +x scheduler.sh
 
 # Start the interactive menu
-./task_scheduler.sh
+./scheduler.sh
 ```
