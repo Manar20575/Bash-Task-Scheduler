@@ -6,7 +6,7 @@ A simple bash script allows you to schedule and manage recurring tasks with diff
   
 ![Demo](https://github.com/Manar20575/Task-Scheduler/blob/main/Bash-Task-Scheduler.gif)
 
-<\div>
+</div>
 ## ✨ Features
 ### Task Scheduling Options
 - ⏱️ **Minutely** - Run every minute
