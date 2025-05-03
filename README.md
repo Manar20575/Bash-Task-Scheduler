@@ -53,4 +53,4 @@ chmod +x scheduler.sh
 # Start the interactive menu
 ./scheduler.sh
 ```
-![Demo](https://github.com/Manar20575/Task-Scheduler/edit/main/dBash-Task-Scheduler.gif?raw=true)
+![Demo](https://github.com/Manar20575/Task-Scheduler/edit/main/dBash-Task-Scheduler.gif)
