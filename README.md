@@ -3,10 +3,9 @@ Project Idea from LabEx https://labex.io/courses/project-build-a-task-scheduler-
 A simple bash script allows you to schedule and manage recurring tasks with different time intervals (minutely, hourly, daily, weekly, monthly). The script provides an interactive menu to add, remove, and manage tasks.
 <hr>
 <div align="center">
-  
 ![Demo](https://github.com/Manar20575/Task-Scheduler/blob/main/Bash-Task-Scheduler.gif)
-
 </div>
+
 ## ✨ Features
 ### Task Scheduling Options
 - ⏱️ **Minutely** - Run every minute
